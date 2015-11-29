@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProyectoImagenesWeb</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="url">Introduce la url</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="title_activity_descargar_img">DescargarImg</string>
+    <string name="title_activity_muestra_img">MuestraImg</string>
+
+</resources>
